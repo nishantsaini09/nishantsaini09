@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Nishant👋
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <h3>I'm a Full-Stack Software Developer and Cloud Computing Enthusiast!</h3>
 </div>
 
 <div align="center" width="50">
@@ -26,8 +27,11 @@ or <a href="mailto:nishantsaini009@gmail.com"><b>email</b></a> me
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+Random Joke </br>
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
+
+Random Quote </br>
+<img align="center" src="https://github-cards-api.herokuapp.com/programming-quotes-card" alt="README Quotes">
 
 ---
 [Portfolio](https://nishant.growabletech.com/)
@@ -36,12 +40,18 @@ or <a href="mailto:nishantsaini009@gmail.com"><b>email</b></a> me
 
   
 
-<a href="www.linkedin.com/in/saininishant09" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/saininishant09" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/saininishant09/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/saininishant09" target="_blank"><img src="https://img.shields.io/twitter/follow/saininishant09?style=social" alt="Twitter"></a>
+
+
+
 <!-- <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> -->
 
 
 </div>
+<center>
+<img align="center" src="https://komarev.com/ghpvc/?username=nishantsaini009&color=brightgreen&label=Visitors" alt="visitors"> </center>
 
 
 <!--
