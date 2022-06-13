@@ -48,11 +48,11 @@ Random Quote </br>
 
 <!-- <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> -->
 
-
+<!--
 </div>
 <center>
 <img align="center" src="https://komarev.com/ghpvc/?username=nishantsaini009&color=brightgreen&label=Visitors" alt="visitors"> </center>
-
+-->
 
 <!--
 
