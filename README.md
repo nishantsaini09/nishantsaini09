@@ -29,10 +29,10 @@ or <a href="mailto:nishantsaini009@gmail.com"><b>email</b></a> me
 </br>
 Random Joke </br>
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
-
+<!--
 Random Quote </br>
 <img align="center" src="https://github-cards-api.herokuapp.com/programming-quotes-card" alt="README Quotes">
-
+-->
 ---
 [Portfolio](https://nishant.growabletech.com/)
 
@@ -48,7 +48,7 @@ Random Quote </br>
 
 <!-- <a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> -->
 
-<!--
+
 </div>
 <center>
 <img align="center" src="https://komarev.com/ghpvc/?username=nishantsaini009&color=brightgreen&label=Visitors" alt="visitors"> </center>
