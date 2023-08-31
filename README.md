@@ -30,8 +30,7 @@ or <a href="mailto:nishantsaini009@gmail.com"><b>email</b></a> me
 Random Joke </br>
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
-Random Quote </br>
-<img align="center" src="https://github-cards-api.herokuapp.com/programming-quotes-card" alt="README Quotes">
+
 
 ---
 [Portfolio](https://nishant.growabletech.com/)
